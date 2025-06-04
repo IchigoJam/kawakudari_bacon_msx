@@ -6,7 +6,7 @@ Kawakudari game for [MSX-BACON](https://github.com/hra1129/msx_basic_compiler/)
 
 - [kawa-kdr.bas](kawa-kdr.bas)
 
-## run on MSX-BICON
+## run on MSX-BACON
 
 ```sh
 msx_bacon kawa-kdr.bas kawa-kdr.asm
