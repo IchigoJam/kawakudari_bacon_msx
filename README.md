@@ -16,5 +16,5 @@ zma kawa-kdr.asm kawa-kdr.bin
 use [BACONLDR.BIN](https://github.com/hra1129/msx_basic_compiler/blob/main/msx_basic_compiler/baconloader/BACONLDR.BIN) from [MSX-BACON](https://github.com/hra1129/msx_basic_compiler/)
 ```MSX
 bload"BACONLDR.BIN",r
-bload"hello.bin",r
+bload"kawa-kdr.bin",r
 ```
